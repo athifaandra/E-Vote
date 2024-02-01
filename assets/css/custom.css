@@ -1,0 +1,38 @@
+body {
+   background-color: #eaedf1;
+   color :#eaedf1
+}
+
+.index-header {
+   color: #002fff;
+   text-align: center;
+   padding-top: 40px;
+}
+
+.form {
+   margin-top: 60px;
+}
+
+.info-login {
+   font-size: 25px;
+}
+
+.img {
+   width: 100%;
+   max-width: 250px;
+   height: 100%;
+}
+
+label {
+   font-size: 20px;
+   
+}
+
+.alert {
+   padding:15px 35px;
+}
+footer {
+   font-size: 16px;
+   text-align: center;
+   margin-top: 10%;
+}
