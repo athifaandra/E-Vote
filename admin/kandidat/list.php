@@ -9,7 +9,7 @@ $id_periode = isset($_GET['id_periode']) ? $_GET['id_periode'] : '';
 ?>
 <div class="row">
     <div class="col-md-9">
-        <h3>Daftar Kandidat</h3>
+        <h3>Daftar Kandidatt</h3>
     </div>
     <div class="col-md-3" style="padding-top: 10px;">
         <!-- Tambahkan ID pada link untuk memudahkan pengambilan aksi pada JavaScript -->
